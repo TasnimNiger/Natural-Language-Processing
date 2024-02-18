@@ -1,2 +1,2 @@
 # Natural-Language-Processing
-All NLP related necessary Python projects and resources.
+Made this repository to upload all NLP related necessary Python projects and resources.
